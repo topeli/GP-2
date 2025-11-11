@@ -1,5 +1,5 @@
 *.csv
-betboom_final.csv    # если нужно сохранить только финальные файлы
+betboom_final.csv
 winline_final.csv
 !all.csv
 !future_matches.csv
